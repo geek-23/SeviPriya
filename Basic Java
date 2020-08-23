@@ -10,9 +10,9 @@ public class Basics {
        
         System.out.println("Enter two number");
 
-        int x = scanner.nextInt();
-        int y = scanner.nextInt();
-        System.out.println("addition of "+x+" and "+y+" = "+(x+y));
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
+        System.out.println("addition of "+a+" and "+b+" = "+(a+b));
         
     }
     
